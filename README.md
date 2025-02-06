@@ -20,10 +20,6 @@ A **month-over-month trend analysis** was conducted to observe shifts in patient
 ## Technologies Used  
 - **Power BI** – Data visualization and dashboard creation  
 - **DAX (Data Analysis Expressions)** – Custom calculations and metrics  
-- **SQL** *(if applicable)* – Data extraction and preprocessing  
-
-## Screenshots  
-*(Include relevant dashboard images here)*  
 
 ## Feedback & Contributions  
 Would love to hear your thoughts! Feel free to **open an issue** or **submit a pull request** if you have ideas for improvement. 🚀
